@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="fmkclient.net.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IDCardIssuer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TRIFORK SERVICES A/S</Value>
+    </Setting>
+    <Setting Name="SosiCareProviderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Trifork</Value>
+    </Setting>
+    <Setting Name="SosiCareProviderCvr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20921897</Value>
+    </Setting>
+    <Setting Name="ITSystemName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fmkclient.net</Value>
+    </Setting>
+    <Setting Name="CERTPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test1234</Value>
+    </Setting>
+    <Setting Name="UserRole" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Læge</Value>
+    </Setting>
+    <Setting Name="UserEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kpn@trifork.com</Value>
+    </Setting>
+    <Setting Name="WhitelistSystemOwner" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Trifork</Value>
+    </Setting>
+    <Setting Name="WhitelistSystemName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fmkclient.net</Value>
+    </Setting>
+    <Setting Name="WhitelistOrgUsingName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Trifork</Value>
+    </Setting>
+    <Setting Name="WhitelistSystemVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.2</Value>
+    </Setting>
+    <Setting Name="WhitelistOrgResponsibleName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Trifork</Value>
+    </Setting>
+    <Setting Name="WhitelistOrgCVR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20921897</Value>
+    </Setting>
+    <Setting Name="WhitelistRequestedRole" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Læge</Value>
+    </Setting>
+    <Setting Name="CERTCVR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20921897</Value>
+    </Setting>
+    <Setting Name="STSUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://test2-cnsp.ekstern-test.nspop.dk:8080/sts/services/SecurityTokenService</Value>
+    </Setting>
+    <Setting Name="UserGivenName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Lene</Value>
+    </Setting>
+    <Setting Name="UserSurName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Rasmussen</Value>
+    </Setting>
+    <Setting Name="UserCpr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2611223938</Value>
+    </Setting>
+    <Setting Name="UserAuthCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">K4CQR</Value>
+    </Setting>
+    <Setting Name="WhitelistYdernummer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8001149</Value>
+    </Setting>
+    <Setting Name="CERTGivenName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Lene Rasmussen</Value>
+    </Setting>
+    <Setting Name="CERTPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Data\SourceCode\fmkclient146_v3.net\cert\LeneRasmussen.p12</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
